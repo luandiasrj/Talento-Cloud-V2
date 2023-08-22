@@ -6,6 +6,7 @@ Links para os projetos:
 - [02.03 - Dono do hotel supersticioso]
 - [02.04 - Função calculadora]
 - [02.05 - Calculadora infinita]
+- [02.06 - Anos completados]
 
 [//]: # (Referências para os links, pois o GitHub não suporta links com espaços)
 
@@ -14,3 +15,5 @@ Links para os projetos:
 [02.04 - Função calculadora]:<02.04 - Função calculadora.md>
 
 [02.05 - Calculadora infinita]:<02.05 - Calculadora infinita.md>
+
+[02.06 - Anos completados]:<02.06 - Anos completados.md>
