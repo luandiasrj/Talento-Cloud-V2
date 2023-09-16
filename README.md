@@ -8,6 +8,7 @@ Links para os projetos:
 - [02.05 - Calculadora infinita]
 - [02.06 - Anos completados]
 - [04.01 - Tags HTML]
+- [04.02 - HTML-CSS]
 
 [//]: # (Referências para os links, pois o GitHub não suporta links com espaços)
 
@@ -19,4 +20,6 @@ Links para os projetos:
 
 [02.06 - Anos completados]:<02.06 - Anos completados.md>
 
-[04.01 - Tags HTML]:<04.01 -  HTML+CSS .md>
+[04.01 - Tags HTML]:<04.01 - HTML+CSS.md>
+
+[04.02 - HTML-CSS]:<04.02 - HTML-CSS/README.md>
