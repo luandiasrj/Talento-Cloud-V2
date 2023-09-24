@@ -10,6 +10,8 @@ Links para os projetos:
 - [04.01 - Tags HTML]
 - [04.02 - HTML-CSS - Lugares na Europa]
 - [04.03 - HTML-CSS - Recife]
+- [04.04 - Recife - CSS]
+- [04.05 - Recife - Flexbox]
 
 [//]: # (Referências para os links, pois o GitHub não suporta links com espaços)
 
@@ -26,3 +28,7 @@ Links para os projetos:
 [04.02 - HTML-CSS - Lugares na Europa]:<04.02 - HTML-CSS>
 
 [04.03 - HTML-CSS - Recife]:<04.03 - Recife>
+
+[04.04 - Recife - CSS]:<04.04 - Recife - CSS>
+
+[04.05 - Recife - Flexbox]:<04.05 - Recife - Flexbox>
