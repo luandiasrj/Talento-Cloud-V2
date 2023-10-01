@@ -12,6 +12,8 @@ Links para os projetos:
 - [04.03 - HTML-CSS - Recife]
 - [04.04 - Recife - CSS]
 - [04.05 - Recife - Flexbox]
+- [05.01 - JavaScript I - Exemplo]
+- [05.02 - JavaScript I - Extensão]
 
 [//]: # (Referências para os links, pois o GitHub não suporta links com espaços)
 
@@ -32,3 +34,7 @@ Links para os projetos:
 [04.04 - Recife - CSS]:<04.04 - Recife - CSS>
 
 [04.05 - Recife - Flexbox]:<04.05 - Recife - Flexbox>
+
+[05.01 - JavaScript I - Exemplo]:<05.01 - JavaScript I.md>
+
+[05.02 - JavaScript I -  Extensão]:<05.02 - JavaScript I.md>
