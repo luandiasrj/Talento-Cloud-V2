@@ -14,6 +14,7 @@ Links para os projetos:
 - [04.05 - Recife - Flexbox]
 - [05.01 - JavaScript I - Exemplo]
 - [05.02 - JavaScript I - Extensão]
+- [05.03 - JavaScript I - Tarefa 1]
 
 [//]: # (Referências para os links, pois o GitHub não suporta links com espaços)
 
@@ -38,3 +39,5 @@ Links para os projetos:
 [05.01 - JavaScript I - Exemplo]:<05.01 - JavaScript I.md>
 
 [05.02 - JavaScript I -  Extensão]:<05.02 - JavaScript I.md>
+
+[05.03 - JavaScript I - Tarefa 1]:<05.03 - JavaScript I - Tarefa 1>
