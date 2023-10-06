@@ -15,6 +15,7 @@ Links para os projetos:
 - [05.01 - JavaScript I - Exemplo]
 - [05.02 - JavaScript I - Extensão]
 - [05.03 - JavaScript I - Tarefa 1]
+- [05.04 - JavaScript I - InnerText e InnerHTML]
 
 [//]: # (Referências para os links, pois o GitHub não suporta links com espaços)
 
@@ -41,3 +42,5 @@ Links para os projetos:
 [05.02 - JavaScript I -  Extensão]:<05.02 - JavaScript I.md>
 
 [05.03 - JavaScript I - Tarefa 1]:<05.03 - JavaScript I - Tarefa 1>
+
+[05.04 - JavaScript I - InnerText e InnerHTML]:<05.04 - JavaScript I - InnerText e InnerHTML>
