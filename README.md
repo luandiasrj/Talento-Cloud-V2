@@ -43,4 +43,4 @@ Links para os projetos:
 
 [05.03 - JavaScript I - Tarefa 1]:<05.03 - JavaScript I - Tarefa 1>
 
-[05.04 - JavaScript I - InnerText e InnerHTML]:<05.04 - JavaScript I - InnerText e InnerHTML>
+[05.04 - JavaScript I - InnerText e InnerHTML]:<05.04 - JavaScript I - InnerText e InnerHtml>
