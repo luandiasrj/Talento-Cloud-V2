@@ -37,4 +37,4 @@ Links para os projetos:
 [05.04 - JavaScript I - InnerText e InnerHTML]: <05.04 - JavaScript I - InnerText e InnerHtml>
 [05.05 - JavaScript I - Produto]: <05.05 - JavaScript I - Produto>
 [06.01 - Banco de Dados I - Mais conhecidos]: <06.01 - Banco de Dados I - Mais conhecidos.md>
-[06.02 - Banco de Dados I - Projeto Conceitual]: <06.02 - Banco de Dados I  - projeto conceitual.md>
+[06.02 - Banco de Dados I - Projeto Conceitual]: <06.02 - Banco de Dados I - Projeto Conceitual.md>
