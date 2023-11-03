@@ -23,6 +23,8 @@ Links para os projetos:
 - [06.03 - Banco de Dados I - 1FN]
 - [06.04 - Banco de Dados I - Operações]
 
+- [06.05 - Banco de Dados I - Cliente e Servidor]
+
 [//]: # "Referências para os links, pois o GitHub não suporta links com espaços"
 [02.03 - Dono do hotel supersticioso]: <02.03 - Dono do hotel supersticioso.md>
 [02.04 - Função calculadora]: <02.04 - Função calculadora.md>
@@ -42,3 +44,4 @@ Links para os projetos:
 [06.02 - Banco de Dados I - Projeto Conceitual]: <06.02 - Banco de Dados I - Projeto Conceitual.md>
 [06.03 - Banco de Dados I - 1FN]: <06.03 - Banco de Dados I - 1FN.md>
 [06.04 - Banco de Dados I - Operações]: <06.04 - Banco de Dados I - Operações.md>
+[06.05 - Banco de Dados I - Cliente e Servidor]: <06.05 - Banco de Dados I - Cliente e Servidor.md>
