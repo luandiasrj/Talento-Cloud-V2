@@ -22,8 +22,8 @@ Links para os projetos:
 - [06.02 - Banco de Dados I - Projeto Conceitual]
 - [06.03 - Banco de Dados I - 1FN]
 - [06.04 - Banco de Dados I - Operações]
-
 - [06.05 - Banco de Dados I - Cliente e Servidor]
+- [06.06 - Banco de Dados I - Criação do banco de dados]
 
 [//]: # "Referências para os links, pois o GitHub não suporta links com espaços"
 [02.03 - Dono do hotel supersticioso]: <02.03 - Dono do hotel supersticioso.md>
@@ -45,3 +45,4 @@ Links para os projetos:
 [06.03 - Banco de Dados I - 1FN]: <06.03 - Banco de Dados I - 1FN.md>
 [06.04 - Banco de Dados I - Operações]: <06.04 - Banco de Dados I - Operações.md>
 [06.05 - Banco de Dados I - Cliente e Servidor]: <06.05 - Banco de Dados I - Cliente e Servidor.md>
+[06.06 - Banco de Dados I - Criação do banco de dados]: <06.06 - Banco de Dados I - Criação do banco de dados.md>
