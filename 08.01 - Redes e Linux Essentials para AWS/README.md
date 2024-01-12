@@ -29,4 +29,4 @@ Por fim, envie o arquivo do Cisco gerado, junto com um print da tela com a topol
 
 ## Resposta:
 
-!['print topologia.png']('print topologia.png')
+![topologia.png](topologia.png)
