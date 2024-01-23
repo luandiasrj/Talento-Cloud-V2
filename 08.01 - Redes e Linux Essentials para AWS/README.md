@@ -29,4 +29,6 @@ Por fim, envie o arquivo do Cisco gerado, junto com um print da tela com a topol
 
 ## Resposta:
 
-![topologia.png](topologia.png)
+Abaixo temos o print da tela com a topologia.
+
+![Topologia estrela](topologia.png)

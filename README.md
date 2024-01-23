@@ -31,6 +31,7 @@ Links para os projetos:
 - [07.05 - Banco de Dados II]
 - [07.06 - Banco de Dados II]
 - [08.01 - Redes e Linux Essentials para AWS]
+- [08.02 - Redes e Linux Essentials para AWS - Terminal]
 
 [//]: # "Referências para os links, pois o GitHub não suporta links com espaços"
 [02.03 - Dono do hotel supersticioso]: <02.03 - Dono do hotel supersticioso.md>
@@ -60,3 +61,4 @@ Links para os projetos:
 [07.05 - Banco de Dados II]: <07.05 - Banco de Dados II.md>
 [07.06 - Banco de Dados II]: <07.06 - Banco de Dados II.md>
 [08.01 - Redes e Linux Essentials para AWS]: <08.01 - Redes e Linux Essentials para AWS>
+[08.02 - Redes e Linux Essentials para AWS - Terminal]: <08.02 - Redes e Linux Essentials para AWS - Terminal>
